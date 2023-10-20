@@ -1,0 +1,153 @@
+body{
+    font-size: 100px;
+background-image: url(https://images.unsplash.com/photo-1511447333015-45b65e60f6d5?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=1555);
+position: relative;
+width: 500px;
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+body {
+    font-size: 20px;
+}
+  
+  @media (min-width: 768px) {
+    body {
+      font-size: 30px;
+    }
+  }
+  
+  @media (min-width: 1200px) {
+    body {
+      font-size: 20px;
+    }
+  }
+
+
+
+
+.Editbtn:hover{
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: black;
+    background-color: yellow;
+}
+
+
+.Deletebtn:hover{
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: black;
+    background-color: yellow;
+}
+.Editbtn{
+    
+background-color: rgb(6, 3, 172);
+margin-top: 10px;
+padding-top: 0px;
+padding-bottom: 0px;
+padding-left: 15px;
+padding-right: 15px;
+color: whitesmoke;   
+font-style: italic;
+font-weight: bold; 
+font-weight: bolder;  
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;                          
+}
+
+
+.Deletebtn{
+    background-color: rgb(6, 3, 172);
+    margin-top: 3px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    /* padding-left: 10px; */
+    /* padding-right: 10px; */
+    color: whitesmoke;   
+    font-style: italic;
+    font-weight: bold; 
+    font-weight: bolder;  
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;                          
+    
+}
+
+
+
+.Inputbtn{
+background-color: red;
+color: black;   
+font-style: italic;
+font-weight: bolder;  
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;                          
+}
+
+
+.RemoveInpbtn{             
+background-color: red;
+color: black;   
+font-style: italic;   
+font-weight: bolder;  
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;                          
+}
+
+
+.inp{
+background-color: black;
+color: white;   
+font-style: italic;     
+font-weight: bold; 
+margin-left: 20%;
+font-weight: bolder;  
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;                          
+
+
+}
+
+.Inputbtn:hover{
+background-color: yellow;
+color: mediumblue;
+cursor: pointer;
+}
+
+.RemoveInpbtn:hover{
+background-color: yellow;
+color: mediumblue;
+cursor: pointer;
+}
+    
+.inp:hover{
+background-color: yellow;
+color: black;
+}
+
+.itemList{
+text-align: center;
+color: blanchedalmond; 
+font-style: italic;                           
+font-weight: bold; 
+margin-left: 20%;
+padding-right: 100%;
+} 
+.itemList:hover{
+    color: yellow;
+}
+
+
+
+
+
+ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 5px 0;
+  }
+  .Heading{ 
+      text-align: center;
+      color:  rgb(255, 247, 0);
+     
+  }
